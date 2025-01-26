@@ -1,9 +1,16 @@
 Name: Divya Jain
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT12WDS44
+
 Domain: Web Development
+
 Duration: december 2024 to march 2025
+
 Mentor: Neela Santhosh Kumar
+
+
 
 Overview Of The Project
 
